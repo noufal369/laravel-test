@@ -7,7 +7,7 @@ Laravel application to get list of internet subscription products
 Clone the repository
 
 ```bash
-git clone git@github.com:noufal369/laravel-test.git
+https://github.com/noufal369/laravel-test.git
 ```
 
 
